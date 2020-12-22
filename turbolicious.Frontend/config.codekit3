@@ -9,6 +9,12 @@
 	],
 "creatorBuild": "33081",
 "files": {
+	"/build": {
+		"ft": 65536,
+		"oA": 1,
+		"oAP": "/build/build",
+		"oF": 0
+		},
 	"/src/assets/logo.svg": {
 		"ft": 2097152,
 		"miP": 0,
@@ -381,6 +387,25 @@
 		"oAP": "/build/assets/reset.css",
 		"oF": 0,
 		"oS": 0
+		},
+	"/vendor/turbo/turbo.es2017-esm.js": {
+		"bF": 0,
+		"ft": 64,
+		"ma": 0,
+		"mi": 0,
+		"oA": 0,
+		"oAP": "/build/assets/turbo.es2017-esm.js",
+		"oF": 0,
+		"sC": 0,
+		"tS": 0
+		},
+	"/vendor/turbo/turbo.es2017-esm.js.map": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/vendor/turbo/turbo.es2017-esm.js.map",
+		"oF": 0
 		}
 	},
 "hooks": [
@@ -393,7 +418,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets_orange",
 	"iconImageWasSetByUser": 1,
-	"lastBuiltDate": 629916034.11843705
+	"lastBuiltDate": 630372281.111305
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
