@@ -1,13 +1,13 @@
 ---
-Project Name: Project Template 2020
-Project Alias: project-template
-Project Desc: This is our (as of 2020) project setup for a website with a separate frontend repository.
+Project Name: Turbolicious
+Project Alias: turbolicious
+Project Desc: My playground for Turbo & Stimulus (see https://hotwire.dev/)
 ---
 
 
-# [%Project Name]
+# Turbolicious
 
-[%Project Desc]
+My playground for Turbo & Stimulus (see https://hotwire.dev/)
 
 ## Directory Setup
 
@@ -92,7 +92,7 @@ Full page layouts go into the `layouts` folder.
 
 ### CodeKit (macOS)
 
-[CodeKit][CK] should pick up all settings from the `config.codekit3` file when you drag the **[%Project Alias].Frontend** folder onto the CodeKit window.
+[CodeKit][CK] should pick up all settings from the `config.codekit3` file when you drag the **turbolicious.Frontend** folder onto the CodeKit window.
 
 ### Windows/Linux
 
