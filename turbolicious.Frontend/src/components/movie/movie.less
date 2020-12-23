@@ -1,0 +1,11 @@
+.movie {
+	display: flex;
+	flex-direction: row;
+	flex-wrap: nowrap;
+	justify-content: flex-start;
+	align-items: baseline;
+	
+	> * + * {
+		margin-left: 1em;
+	}
+}
