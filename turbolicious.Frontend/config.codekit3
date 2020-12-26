@@ -97,6 +97,30 @@
 		"sI": 0,
 		"sU": 0
 		},
+	"/src/components/yearnavigation/_yearnavigation.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/build/components/yearnavigation/_yearnavigation.html",
+		"oF": 0
+		},
+	"/src/components/yearnavigation/yearnavigation.less": {
+		"aP": 1,
+		"bl": 1,
+		"eJ": 0,
+		"ft": 1,
+		"iI": 0,
+		"ma": 0,
+		"mS": 0,
+		"oA": 1,
+		"oAP": "/build/assets/yearnavigation.css",
+		"oF": 0,
+		"oS": 0,
+		"rwU": 0,
+		"sI": 0,
+		"sU": 0
+		},
 	"/src/js/app.module.js": {
 		"bF": 4,
 		"ft": 64,
@@ -165,6 +189,38 @@
 		"oAP": "/build/index.html",
 		"oF": 0
 		},
+	"/src/kit/movies/1996/index.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/movies/1996/index.html",
+		"oF": 0
+		},
+	"/src/kit/movies/2013/index.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/movies/2013/index.html",
+		"oF": 0
+		},
+	"/src/kit/movies/2020/index.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/movies/2020/index.html",
+		"oF": 0
+		},
+	"/src/kit/movies/index.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/build/movies/index.html",
+		"oF": 0
+		},
 	"/src/kit/panels.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -195,6 +251,30 @@
 		"hM": 0,
 		"oA": 1,
 		"oAP": "/build/shared/_head_content.html",
+		"oF": 0
+		},
+	"/src/kit/shared/_movies-1996.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/build/shared/_movies-1996.html",
+		"oF": 0
+		},
+	"/src/kit/shared/_movies-2013.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/build/shared/_movies-2013.html",
+		"oF": 0
+		},
+	"/src/kit/shared/_movies-2020.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/build/shared/_movies-2020.html",
 		"oF": 0
 		},
 	"/src/kit/shared/_script_content.kit": {
@@ -357,6 +437,30 @@
 		"sI": 0,
 		"sU": 0
 		},
+	"/src/panels/movielist-panel/_movielist-panel.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/build/panels/movielist-panel/_movielist-panel.html",
+		"oF": 0
+		},
+	"/src/panels/movielist-panel/movielist-panel.less": {
+		"aP": 1,
+		"bl": 1,
+		"eJ": 0,
+		"ft": 1,
+		"iI": 0,
+		"ma": 0,
+		"mS": 0,
+		"oA": 1,
+		"oAP": "/build/assets/movielist-panel.css",
+		"oF": 0,
+		"oS": 0,
+		"rwU": 0,
+		"sI": 0,
+		"sU": 0
+		},
 	"/src/panels/sample-panel/_sample-panel.kit": {
 		"cB": 0,
 		"ft": 2048,
@@ -442,7 +546,7 @@
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "brackets_orange",
 	"iconImageWasSetByUser": 1,
-	"lastBuiltDate": 630372281.111305
+	"lastBuiltDate": 630491777.46876001
 	},
 "projectSettings": {
 	"abortBuildOnError": 1,
