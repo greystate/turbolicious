@@ -32,3 +32,12 @@
 	.centered();
 	max-width: @width;
 }
+
+.centered(@width, @gutter) {
+	.centered();
+	max-width: @width;
+	padding-right: @gutter;
+	padding-left: @gutter;
+	box-sizing: content-box;
+}
+
