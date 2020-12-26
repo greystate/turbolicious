@@ -39,7 +39,7 @@ to `app.css` using _AutoPrefixer_.
 The main JavaScript file is the `js/modules/app.js` file - you'll find two
 wrapper files in the js/ directory: `app.module.js` and `app.nomodule.js`. They
 both get processed and compiled into the `build/assets/` folder.
-The module.js file only gets bundled while the nomodule.js file is transpiled
+The module.js file is only getting bundled. The nomodule.js file is transpiled
 with Babel first and then bundled.
 
 Both files are referenced from the HTML - but in this way:
@@ -52,7 +52,7 @@ Both files are referenced from the HTML - but in this way:
 These are mutually exclusive since browsers that support the newer JavaScript
 modules syntax will load the first one and ignore the second (due to the
 `nomodule` attribute) while browsers that don't understand modules won't load
-the first one because of the `type="module"` attribute, but gladly load the
+the first one because of the `type="module"` attribute, but will gladly load the
 second.
 
 
